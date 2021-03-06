@@ -1,1 +1,77 @@
 # problems-countof2
+
+Question:
+
+You are given a number N and your task is to find the number of 2's present from 0 to N.
+For Example,
+If N=21, there are 4 2's from 0 to N i.e., 2, 12, 20 and 21, so the output is 4.
+
+Input Description:
+
+The first line contains an integer N (1<=N<=10^20).
+
+Ouput Description:
+
+Print the number of 2's present from 0 to N.
+
+Sample Input:
+
+32
+
+Sample Output:
+
+14
+
+Explanantion:
+
+There are 14 2's from 0 to 32 i.e., 2, 12, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 32. So, the output is 14
+
+Testcase 1:
+
+Input:
+
+83589
+
+Output:
+
+44119
+
+Testcase 2:
+
+Input:
+
+43232
+
+Output:
+
+27987
+
+Testcase 3:
+
+Input:
+
+761223
+
+Ouput:
+
+484371
+
+Testcase 4:
+
+Input:
+
+543327
+
+Ouput:
+
+378071
+
+Testcase 5:
+
+Input:
+
+201454
+
+Output:
+
+101951
