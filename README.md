@@ -14,6 +14,10 @@ Ouput Description:
 
 Print the number of 2's present from 1 to N.
 
+Hints:
+
+Separate each digit and check whether the digit is equal to 2.
+
 Sample Input:
 
 32
