@@ -26,7 +26,7 @@ Sample Output:
 
 14
 
-Explanantion:
+Explanation:
 
 There are 14 2's from 1 to 32 i.e., 2, 12, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 32. So, the output is 14
 
